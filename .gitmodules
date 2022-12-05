@@ -1,0 +1,3 @@
+[submodule "stuffz"]
+	path = stuffz
+	url = https://github.com/Synacktiv-contrib/stuffz
