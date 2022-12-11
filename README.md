@@ -25,3 +25,7 @@ master key is in user_0
 subkeys are encrypted with aes-256-SIV
 
 xml file is here
+
+## Plan of action
+
+write a implementaion in kotlin and do some replacey shitt
